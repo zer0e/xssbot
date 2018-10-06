@@ -10,7 +10,7 @@ while 1:
     try:
         browser = webdriver.Chrome(chromedriver)
         browser.get(url)
-        browser.add_cookie({'key':'key','value':'admin123!@#','path':'/'})
+        browser.add_cookie({'name':'key','value':'admin123!@#','path':'/'})
         browser.get(url)
         time.sleep(1)
         browser.quit()
