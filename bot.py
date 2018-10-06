@@ -4,7 +4,7 @@ from selenium.common.exceptions import WebDriverException
 import time 
 
 
-url='http://127.0.0.1/xssbot2/admin666.php'
+url='http://127.0.0.1/xssbot/admin666.php'
 chromedriver = "C:\chromedriver.exe"  
 while 1:
     try:
