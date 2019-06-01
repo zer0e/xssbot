@@ -1,3 +1,5 @@
-"xssbot level1" 
+# XSSBOT
 
-no use js and no waf...
+A simple xssbot。Hope u can get inspiration from it.
+
+一个简单的xssbot的demo。
